@@ -1,0 +1,26 @@
+{
+ "name": "Casal Delivery",
+ "short_name": "Casal Delivery",
+ "description": "Cardápio digital e pedidos da Casal Delivery",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "pt-BR",
+ "background_color": "#8f1212",
+ "theme_color": "#8f1212",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
